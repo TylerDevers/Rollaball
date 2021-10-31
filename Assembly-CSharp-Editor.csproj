@@ -229,17 +229,20 @@
     <Reference Include="UnityEditor.LinuxStandalone.Extensions">
         <HintPath>/home/tyler/Unity/2019.4.31f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
     </Reference>
-    <Reference Include="unityplastic">
-        <HintPath>/home/tyler/Unity/Projects/Rollaball/Library/PackageCache/com.unity.collab-proxy@1.10.2/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/home/tyler/Unity/Projects/Rollaball/Library/PackageCache/com.unity.collab-proxy@1.10.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    <Reference Include="UnityEditor.Android.Extensions">
+        <HintPath>/home/tyler/Unity/2019.4.31f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
         <HintPath>/home/tyler/Unity/Projects/Rollaball/Library/PackageCache/com.unity.collab-proxy@1.10.2/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Plastic.Newtonsoft.Json">
+        <HintPath>/home/tyler/Unity/Projects/Rollaball/Library/PackageCache/com.unity.collab-proxy@1.10.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
         <HintPath>/home/tyler/Unity/Projects/Rollaball/Library/PackageCache/com.unity.collab-proxy@1.10.2/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="unityplastic">
+        <HintPath>/home/tyler/Unity/Projects/Rollaball/Library/PackageCache/com.unity.collab-proxy@1.10.2/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
         <HintPath>/home/tyler/Unity/Projects/Rollaball/Library/PackageCache/com.unity.render-pipelines.core@7.7.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
